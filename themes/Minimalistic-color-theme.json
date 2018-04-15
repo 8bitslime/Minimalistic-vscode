@@ -106,7 +106,8 @@
 				"keyword.other",
 				"storage.type",
 				"storage.modifier",
-				"support.type.posix-reserved.c",
+				"support.type.posix-reserved",
+				"constant.language",
 				
 				"keyword.operator",
 				"keyword.operator.logical",

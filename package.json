@@ -2,7 +2,7 @@
     "name": "minimalistic",
     "displayName": "Minimalistic",
     "description": "Minimalistic color theme",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "8bitslime",
     "engines": {
         "vscode": "^1.22.0"
