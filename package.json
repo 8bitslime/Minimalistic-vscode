@@ -3,7 +3,7 @@
     "displayName": "Minimalistic",
     "description": "Minimalistic color theme",
     "version": "0.0.1",
-    "publisher": "Zachary Wells",
+    "publisher": "8bitslime",
     "engines": {
         "vscode": "^1.22.0"
     },
