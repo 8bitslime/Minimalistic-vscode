@@ -41,7 +41,6 @@
 		"editor.selectionHighlightBackground": "#303030",
 		"editor.selectionHighlightBorder": "#1d1d1d",
 		
-		
 		"editor.lineHighlightBorder": "#1d1d1d",
 		"editor.lineHighlightBackground": "#252525",
 		
@@ -60,6 +59,11 @@
 		"editor.findMatchHighlightBackground": "#333",
 	},
 	"tokenColors": [
+		{
+			"settings": {
+				"foreground": "#ccc",
+			}
+		},
 		{
 			"name": "Comment",
 			"scope": [
