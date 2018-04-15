@@ -3,10 +3,21 @@
     "displayName": "Minimalistic",
     "description": "Minimalistic color theme",
     "version": "0.0.1",
-    "publisher": "8bitslime",
+    "publisher": "Zachary Wells",
     "engines": {
         "vscode": "^1.22.0"
     },
+    
+    "license": "MIT",
+    "homepage": "https://github.com/8bitslime/Minimalistic-vscode",
+    "bugs": {
+        "url": "https://github.com/8bitslime/Minimalistic-vscode/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/8bitslime/Minimalistic-vscode.git"
+    },
+    
     "categories": [
         "Themes"
     ],
