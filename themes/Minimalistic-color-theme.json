@@ -56,12 +56,13 @@
 		"editorBracketMatch.border": "#3c3c3c",
 		
 		"editor.findMatchBackground": "#444",
-		"editor.findMatchHighlightBackground": "#333",
+		"editor.findMatchHighlightBackground": "#333"
 	},
 	"tokenColors": [
 		{
 			"settings": {
-				"foreground": "#ccc",
+				"background": "#1d1d1d",
+				"foreground": "#ccc"
 			}
 		},
 		{
@@ -84,7 +85,8 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#ccc"
+				"foreground": "#ccc",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -102,20 +104,22 @@
 				"keyword.operator.arithmetic",
 				"keyword.operator.assignment",
 				"keyword.operator.new",
-				"punctuation.separator",
+				"punctuation.separator"
 			],
 			"settings": {
-				"foreground": "#aaa"
+				"foreground": "#999",
+				"fontStyle": ""
 			}
 		},
 		{
 			"name": "Purple",
 			"scope": [
 				"string",
-				"constant.numeric",
+				"constant.numeric"
 			],
 			"settings": {
-				"foreground": "#aad"
+				"foreground": "#aad",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -128,11 +132,14 @@
 				"keyword.control.directive.include",
 				"keyword.control.directive.define",
 				"constant.character.escape.line-continuation",
+				"keyword.control.directive.pragma",
+				"meta.preprocessor.pragma",
 				
 				"markup.heading"
 			],
 			"settings": {
-				"foreground": "#77a"
+				"foreground": "#77a",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -140,18 +147,19 @@
 				"invalid"
 			],
 			"settings": {
-				"foreground": "#E32"
+				"foreground": "#E32",
+				"fontStyle": ""
 			}
 		},
 		
-		//markup whatevers
 		{
 			"name": "Makrup Plaintext",
 			"scope": [
 				"meta.paragraph.markdown"
 			],
 			"settings": {
-				"foreground": "#ccc"
+				"foreground": "#ccc",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -181,7 +189,8 @@
 				"markup.raw"
 			],
 			"settings": {
-				"foreground": "#aad"
+				"foreground": "#aad",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -191,7 +200,8 @@
 				"beginning.punctuation.definition.list.markdown"
 			],
 			"settings": {
-				"foreground": "#aaa"
+				"foreground": "#aaa",
+				"fontStyle": ""
 			}
 		}
 	]
