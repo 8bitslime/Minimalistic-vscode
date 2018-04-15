@@ -7,9 +7,14 @@
 		"widget.shadow": "#0000",
 		
 		"statusBar.background": "#007acc",
+		"statusBar.foreground": "#ccc",
+		"statusBar.debuggingBackground": "#77a",
+		"statusBar.debuggingForeground": "#eee",
+		"statusBar.noFolderBackground": "#aaa",
+		"statusBar.noFolderForeground": "#eee",
 		
 		"panel.background": "#222",
-		"panel.border": "#111",
+		"panel.border": "#333",
 		"panelTitle.activeBorder": "#ccc",
 		"panelTitle.activeForeground": "#ccc",
 		"panelTitle.inactiveForeground": "#777",
@@ -56,7 +61,11 @@
 		"editorBracketMatch.border": "#3c3c3c",
 		
 		"editor.findMatchBackground": "#444",
-		"editor.findMatchHighlightBackground": "#333"
+		"editor.findMatchHighlightBackground": "#333",
+		
+		"editorGroupHeader.tabsBackground": "#222",
+		"editorGroup.dropBackground": "#333a",
+		"editorGroup.border": "#333"
 	},
 	"tokenColors": [
 		{
