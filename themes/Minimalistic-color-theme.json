@@ -11,7 +11,7 @@
 		"statusBar.debuggingBackground": "#77a",
 		"statusBar.debuggingForeground": "#eee",
 		"statusBar.noFolderBackground": "#aaa",
-		"statusBar.noFolderForeground": "#eee",
+		"statusBar.noFolderForeground": "#444",
 		
 		"panel.background": "#222",
 		"panel.border": "#333",
@@ -141,6 +141,7 @@
 				"keyword.control.directive.conditional",
 				"keyword.control.directive.include",
 				"keyword.control.directive.define",
+				"keyword.control.directive.undef",
 				"constant.character.escape.line-continuation",
 				"keyword.control.directive.pragma",
 				"meta.preprocessor.pragma",
