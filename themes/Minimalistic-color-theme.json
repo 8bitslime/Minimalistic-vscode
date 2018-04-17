@@ -6,12 +6,13 @@
 		"focusBorder": "#222",
 		"widget.shadow": "#0000",
 		
-		"statusBar.background": "#007acc",
+		"statusBar.background": "#222",
+		"statusBar.border": "#333",
 		"statusBar.foreground": "#ccc",
 		"statusBar.debuggingBackground": "#77a",
 		"statusBar.debuggingForeground": "#eee",
 		"statusBar.noFolderBackground": "#aaa",
-		"statusBar.noFolderForeground": "#444",
+		"statusBar.noFolderForeground": "#111",
 		
 		"panel.background": "#222",
 		"panel.border": "#333",
@@ -37,6 +38,9 @@
 		
 		"dropdown.background": "#1a1a1a",
 		"dropdown.border": "#101010",
+		
+		"button.background": "#aaa",
+		"button.foreground": "#111",
 		
 		"editor.background": "#1d1d1d",
 		"editor.foreground": "#ccc",
