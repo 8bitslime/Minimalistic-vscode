@@ -56,7 +56,7 @@
 		"editorCursor.background": "#111",
 		"editorCursor.foreground": "#ccc",
 		
-		"editorLineNumber.activeForeground": "#888",
+		"editorLineNumber.activeForeground": "#aaa",
 		"editorLineNumber.foreground": "#444",
 		"editorWhitespace.foreground": "#333",
 		"editorIndentGuide.background": "#333",
@@ -109,6 +109,7 @@
 				"keyword.control",
 				"keyword.other",
 				"storage.type",
+				"support.type.sys-types",
 				"storage.modifier",
 				"support.type.posix-reserved",
 				"constant.language",
@@ -118,7 +119,9 @@
 				"keyword.operator.arithmetic",
 				"keyword.operator.assignment",
 				"keyword.operator.new",
-				"punctuation.separator"
+				"punctuation.separator",
+				
+				"support.variable.glsl"
 			],
 			"settings": {
 				"foreground": "#999",
@@ -149,6 +152,7 @@
 				"constant.character.escape.line-continuation",
 				"keyword.control.directive.pragma",
 				"meta.preprocessor.pragma",
+				"keyword.control.hlsl",
 				
 				"markup.heading"
 			],
