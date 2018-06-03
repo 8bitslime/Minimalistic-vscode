@@ -109,9 +109,10 @@
 				"keyword.control",
 				"keyword.other",
 				"storage.type",
-				"support.type.sys-types",
 				"storage.modifier",
+				"support.type.sys-types",
 				"support.type.posix-reserved",
+				"support.type.stdint",
 				"constant.language",
 				
 				"keyword.operator",
