@@ -72,12 +72,12 @@
 		"editorGroup.border": "#333"
 	},
 	"tokenColors": [
-		{
-			"settings": {
-				"background": "#1d1d1d",
-				"foreground": "#ccc"
-			}
-		},
+		// {
+		// 	"settings": {
+		// 		// "background": "#1d1d1d",
+		// 		"foreground": "#ccc"
+		// 	}
+		// },
 		{
 			"name": "Comment",
 			"scope": [
@@ -150,8 +150,9 @@
 				"keyword.control.directive.include",
 				"keyword.control.directive.define",
 				"keyword.control.directive.undef",
-				"constant.character.escape.line-continuation",
+				"keyword.control.directive.endif",
 				"keyword.control.directive.pragma",
+				"constant.character.escape.line-continuation",
 				"meta.preprocessor.pragma",
 				"keyword.control.hlsl",
 				
@@ -173,7 +174,7 @@
 		},
 		
 		{
-			"name": "Makrup Plaintext",
+			"name": "Markup Plaintext",
 			"scope": [
 				"meta.paragraph.markdown"
 			],
